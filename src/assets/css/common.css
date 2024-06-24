@@ -1,0 +1,18 @@
+:root {
+    --primary-color:#ff9854;
+    --van-search-left-icon-color:var(--primary-color) !important;
+    --van-index-bar-index-font-size: 12px !important;
+    --theme-linear-gradient: linear-gradient(90deg, #fa8c1d, #fcaf3f);
+    --van-rate-icon-size:15px !important;
+    --van-primary-color: var(--primary-color) !important;
+}
+body {
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.icon_check {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: url(../img/detail/icon_check.png) 0 0 / 100% 100%;
+  }
